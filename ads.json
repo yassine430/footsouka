@@ -1,7 +1,7 @@
 {
   "Ads":{
-    "ShowAds":true,
-    "ShowLoadingAds":true,
+    "ShowAds":false,
+    "ShowLoadingAds":false,
     "ClickCount":1,
     "PriorityBanner":"max",
     "priorityInterstitial":"max",
