@@ -25,7 +25,7 @@
   },
   "ControlApp":{
  "PlayerPackageName": "com.videoplayer.krcplayerhdfree",
- "app_redirect":"yes",
+ "app_redirect":"no",
 "redirect_package_name":"com.example.test"
     
     }
