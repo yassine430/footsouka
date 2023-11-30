@@ -1,33 +1,31 @@
 {"ads":{
 
- "ShowAds":false,
-    "ShowLoadingAds":false,
+ "ShowAds":true,
+    "ShowLoadingAds":true,
     "ClickCount":1,
-    "PriorityBanner":"iron",
-    "priorityInterstitial":"iron",
-    "PriorityNative":"max",
-    "PriorityReward":"iron",
+    "PriorityBanner":"admob",
+    "priorityInterstitial":"admob",
+    "PriorityNative":"admob",
+    "PriorityReward":"admob",
     "IronAppKey":"85460dcd",
     "IronBanner":"DefaultBanner",
     "IronInterstitial":"DefaultInterstitial",
     "IronReward":"DefaultReward",
-    "TopOnAppKey":"xxxxxxxx",
-    "TopOnAppID":"xxxxxxxx",
-    "TopOnBanner":"xxxxxxxx",
-    "TopOnInterstitial":"xxxxxxxx",
-    "TopOnNative":"xxxxxxxx",
-    "TopOnReward":"xxxxxxxx",
     "MaxBanner":"xxxxxxxx",
     "MaxInterstitial":"xxxxxxxx",
     "MaxNative":"5534d47212ed8e80",
     "MaxReward":"",
     "FanBanner":"",
     "FanInterstitial":"",
-    "FanNative":""
+    "FanNative":"",
+    "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+    "admob_reward":"ca-app-pub-3940256099942544/5224354917"
   },
   "ControlApp":{
  "PlayerPackageName": "com.videoplayer.krcplayerhdfree",
- "app_redirect":"no",
+ "app_redirect":"yes",
 "redirect_package_name":"com.example.test"
     
     }
