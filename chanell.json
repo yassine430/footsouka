@@ -2,81 +2,42 @@
   
   "Categories":[
     {
-      "CategoryName":"Kids Channels",
+      "CategoryName":"foot Channels",
       "ChannelsList":[
         {
           "ChannelName":"working",
           "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "Play_In":"player"
+          "ChannelLogo":"",
+          "ChannelLink":"",
+          "Play_In":"app"
         },
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "Play_In":"player"
-        },
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "Play_In":"player"
-        }
+       
         ]
     },
         {
-      "CategoryName":"Kids Channels",
+      "CategoryName":"foot Channels",
       "ChannelsList":[
         {
           "ChannelName":"working",
           "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "Play_In":"player"
+          "ChannelLogo":"",
+          "ChannelLink":"",
+          "Play_In":"app"
         },
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "Play_In":"player"
-        },
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "Play_In":"player"
-        }
+       
         ]
     },
         {
-      "CategoryName":"Kids Channels",
+      "CategoryName":"foot Channels",
       "ChannelsList":[
         {
           "ChannelName":"working",
           "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "Play_In":"player"
+          "ChannelLogo":"",
+          "ChannelLink":"",
+          "Play_In":"app"
         },
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "Play_In":"player"
-        },
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "Play_In":"player"
-        }
+       
         ]
     }
     
@@ -86,10 +47,10 @@
         "EventDescription":"working",
         "FirstTeamName":"tes1",
         "SecondTeamName":"test2",
-        "FirstTeamLogo":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-        "SecondTeamLogo":"https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png",
+        "FirstTeamLogo":"",
+        "SecondTeamLogo":"",
         "MatchTime":"Live Now",
-        "MatchLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "MatchLink":"",
         "Play_In":"app"
         
       }
