@@ -7,26 +7,77 @@
         {
           "ChannelName":"working",
           "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://image.similarpng.com/very-thumbnail/2021/09/Live-streaming-icon-design-template-on-transparent-background-PNG.png",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
           "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
           "Play_In":"player"
         },
         {
           "ChannelName":"working",
           "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"hhttps://image.similarpng.com/very-thumbnail/2021/09/Live-streaming-icon-design-template-on-transparent-background-PNG.png",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
           "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
           "Play_In":"player"
         },
         {
           "ChannelName":"working",
           "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://image.similarpng.com/very-thumbnail/2021/09/Live-streaming-icon-design-template-on-transparent-background-PNG.png",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
           "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
           "Play_In":"player"
         }
         ]
-
+    },
+        {
+      "CategoryName":"Kids Channels",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
+          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "Play_In":"player"
+        },
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
+          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "Play_In":"player"
+        },
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
+          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "Play_In":"player"
+        }
+        ]
+    },
+        {
+      "CategoryName":"Kids Channels",
+      "ChannelsList":[
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
+          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "Play_In":"player"
+        },
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
+          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "Play_In":"player"
+        },
+        {
+          "ChannelName":"working",
+          "ChannelDescription":"test1channelpos1",
+          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
+          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "Play_In":"player"
+        }
+        ]
     }
     
     ],
